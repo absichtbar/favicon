@@ -7,6 +7,6 @@ Create favicons that are visible (and look great) on different backgrounds!
 
 ## Examples
 Check Icons produced with this file and https://realfavicongenerator.net/
-- https://annika-brinkmann.de/
-- https://barrieren-fasten.de/
+- https://annika-brinkmann.de
+- https://barrieren-fasten.de
 - https://www.ccessi.de/
